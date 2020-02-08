@@ -1,6 +1,6 @@
 # Custom Pygments Lexers
 
-Custom lexers for use with Pygements and minted.
+Custom lexers for use with Pygments and minted.
 
 ## Minted Usage
 
